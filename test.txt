@@ -2,6 +2,5 @@ this is the first line : start learn lg
 macxiaoxin macmodify
 nice one test 3
 good boy
-learn go
 learn git
-mac add 
+mac add modify 4
