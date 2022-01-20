@@ -4,3 +4,4 @@ nice
 good boy
 learn go
 learn git
+mac add 
